@@ -1,0 +1,6 @@
+com/example/demo/Services/NewUserRegisterPojoSignUp.class
+com/example/demo/Services/NewUserRegisterEntitySignUp.class
+com/example/demo/Services/NewUserServiceSignUp.class
+com/example/demo/WebAppPratice1Application.class
+com/example/demo/Services/NewUserRepositorySignUp.class
+com/example/demo/Controller/SignUpPageController.class
